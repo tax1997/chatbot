@@ -1,6 +1,6 @@
 # chatbot
 This is a robot for you to query the covid-19 information of each country.
-![image]()
+![image](https://github.com/tax1997/chatbot/blob/master/3xvid%20(1).gif)
 
 ## Getting Started
 
