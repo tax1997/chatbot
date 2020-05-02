@@ -42,3 +42,5 @@ conda install scikit-learn
 pip install sklearn-crfsuite
 
 ```
+## Running the tests
+After create the new bot on telegram and replace the new token in the covid19-telegrambot.py, simply run the covid19-telegrambot.py and wait for a few minutes to let the program train the bot. Then you can chat with it.
